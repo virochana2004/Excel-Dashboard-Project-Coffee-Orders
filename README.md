@@ -1,11 +1,30 @@
 # Excel-Dashboard-Project-Coffee-Orders
-This project showcases a Coffee Orders Dashboard created in Excel, designed to analyze and visualize customer order data effectively. The dashboard provides insights into total sales, top customers, product popularity, and order distribution across different countries.
+This project features a comprehensive Coffee Orders Dashboard created in Excel, designed to analyze and visualize customer order data effectively. It provides insights into total sales, top-performing products, customer preferences, and geographic distribution. Additionally, a new Coffee Profit Dashboard offers profit-focused insights, helping businesses assess profitability alongside sales data.
 
 <br>
 
 ## 📊 Project Overview
 
-![Excel Dashboard](https://github.com/user-attachments/assets/f34ed170-1b4c-4d7a-ad38-8b8adc6828a7)
+The dashboard presents key metrics such as:
+
+* Total Sales Over Time
+* Total Profits Over Time
+* Top Products and Top 5 Cities
+
+<br>
+
+### Coffee Sales Dashboard
+
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/668a5a1d-6361-4f6c-bad6-fbf3f117afb3)
+
+<br>
+
+### Coffee Profit Dashboard
+
+![Coffee Profit Dashboard](https://github.com/user-attachments/assets/9160fb6a-c6d0-43a9-8657-ebae9f6df92b)
+
+
+
 
 This Excel dashboard leverages multiple worksheets to create a centralized view of coffee orders, enabling quick, data-driven decisions. The project includes data on orders, customers, and products, along with key performance indicators (KPIs) and visualizations for better understanding of the data.
 
@@ -13,19 +32,26 @@ This Excel dashboard leverages multiple worksheets to create a centralized view 
 
 ## ⭐ Key Features
 
-📈 **Interactive Dashboard**: A main dashboard to track important metrics like total sales, popular products, and customer insights.
+📊 **Interactive Dashboards**
 
-💵 **Sales Analysis**: Total sales calculations with breakdowns by product and region.
+ * A main Sales Dashboard and a Coffee Profit Dashboard offer a complete view of essential metrics like total sales, profitability, popular products, and customer trends.
 
-👤 **Customer Insights**: Identifies top customers, including the top 5 highest spending customers.
+🔍 **Sales & Profit Analysis**
 
-🌎 **Geographic Insights**: Displays sales distribution by country in a bar chart format for easy comparison.
+ * Provides total sales and profit calculations with breakdowns by product and region, helping to track performance.
+
+🏆 **Customer and Geographic Insights**
+
+ * Highlights the Top 5 Cities with the highest order volume, and a bar chart for visualizing sales across countries.
+
 
 <br>
 
 ## 📂 Project Structure
 
-📊 **Dashboard**: The main visualization sheet providing an overview of sales metrics.
+📊 **Coffee Sales Dashboard**: The main visualization sheet providing an overview of sales metrics.
+
+📊 **Coffee Profit Dashboard**: A profit-focused dashboard, with similar insights as the Sales Dashboard but centered on profit metrics.
 
 🗂️ **orders**: Raw data of coffee orders, including order date, product, quantity, and customer information.
 
@@ -42,6 +68,19 @@ This Excel dashboard leverages multiple worksheets to create a centralized view 
 📑 Explore each sheet to dive deeper into specific data points.
 
 📊 Use the visualizations for presentations or to guide business decisions based on customer and sales trends.
+
+<br>
+
+## 🔗 Source
+
+🎥 https://youtu.be/m13o5aqeCbM?si=DxAWlbx0TkOkx5qd
+
+🔧 **Additional Customizations**
+
+While the referenced YouTube video guided the creation of the initial Sales Dashboard, I made several enhancements to tailor it further:
+
+* **Top 5 Cities**: Replaced "Top 5 Customers" with a "Top 5 Cities" metric in the Sales Dashboard for more relevant geographic insights.
+* **Coffee Profit Dashboard**: Designed an additional dashboard focused on profit, which mirrors the structure of the Sales Dashboard but provides profit-based metrics instead of sales.
 
 
 
